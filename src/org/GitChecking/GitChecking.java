@@ -3,7 +3,7 @@ package org.GitChecking;
 public class GitChecking {
 public static void main(String[] args) {
 		
-		String WeekName = "sunday";	
+	/*	String WeekName = "sunday";	
 				
 	switch(WeekName)
 	{
@@ -17,8 +17,8 @@ public static void main(String[] args) {
 	default:System.out.println("None");
 	
 		}
-    	
-		/*int num=-9; 
+    	*/
+		int num=-9; 
 		
 		if(num>0)
 		{
@@ -31,7 +31,7 @@ public static void main(String[] args) {
 		else
 		{
 			System.out.println("Zero");
-		}*/
+		}
 		
 		
 		// While
